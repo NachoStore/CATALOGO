@@ -26,8 +26,7 @@ margin:-70px auto;
     background-color:green;
     border-radius: 15px;
     border: 3px double #f5ffbd;
-    margin: auto 15px;
-    ;
+    display: block;
 }
 .button#dos{
     text-decoration: none;
